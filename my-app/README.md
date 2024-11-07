@@ -8,8 +8,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 clone/pull 받은 리액트 프로젝트 폴더로 이동해서
 yarn install 명령어를 입력하면 자동으로 node_modules가 다운로드 되면서 실행 가능한 상태가 된다.
 
-In the project directory, you can run:
-
+In the project directory, you can run: 
+### `cd my-app`
 ### `yarn start`
 
 Runs the app in the development mode.\
